@@ -11,7 +11,7 @@ var Popular = require('./Popular');
 class App extends React.Component {
     render() {
         return (
-            < Router >
+            <Router>
                 <div className="container">
                     <Nav />
                     <Switch>
